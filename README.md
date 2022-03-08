@@ -4,6 +4,6 @@ A simple string literal obfuscator
 # Example 
 ```c++
 int main() {
-    std::puts(XORSTR("Hello World));
+    std::puts(XORSTR("Hello World"));
 }
 ```
